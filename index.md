@@ -4,7 +4,8 @@ Hello world!
 ```
 
 ## Websites
-- Personal website, software development portfolio, and tech blog where I write about Python, Linux, AWS cloud, serverless, hacking, and everything in-between. — [https://sumit-ghosh.com/](https://sumit-ghosh.com/)
+- Software development portfolio. — [https://skghosh.me/](https://skghosh.me/)
+- Personal website and tech blog where I write about Python, Linux, AWS cloud, serverless, hacking, and everything in-between. — [https://sumit-ghosh.com/](https://sumit-ghosh.com/)
 - Blog // brain-dump, where I post random half-baked musings on everything from philosophy to pop culture. Nothing technical to be found here. — [https://okrefusal.com/](https://okrefusal.com/)
 
 ## Accounts, social media or otherwise
