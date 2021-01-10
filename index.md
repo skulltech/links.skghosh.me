@@ -11,4 +11,4 @@ Hello world!
 ## Accounts, social media or otherwise
 - Github, for my open-source work. — [https://github.com/SkullTech](https://github.com/SkullTech)
 - Goodreads, feel free to add me if you are a reader too. — [https://www.goodreads.com/sumitghosh101](https://www.goodreads.com/sumitghosh101)
-- And lastly, the Twitter. — [https://twitter.com/SkullTech101](https://twitter.com/SkullTech101)
+- And lastly, the Twitter. — [https://twitter.com/SkullTech101](https://twitter.com/summitkg)
